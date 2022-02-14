@@ -1,5 +1,4 @@
-- 👋 
-- Hi, I’m @ethancrypto, Blockchain Guru witb 7 years of proven experiences, Full Stack Developer, Project Manager 🔥. 
+- Hi👋 , I’m @ethancrypto, Blockchain Guru witb 7 years of proven experiences, Full Stack Developer, Project Manager 🔥. 
   Win-Win is my main working style and it shows how I work with clients. 
   I love to help Blockchain Startup companies as a project manager, developer, consultant.
   
