@@ -2,7 +2,8 @@
 - 🔥 Rust Programming Language is my main choice for recent years.
   I am very familiar with Rust and several frameworks such as ActiX, Yew, Substrate.
 
-These are my other skillset:
+These are my other skillset: \n
+    
     ⚡ Develop DAO, Defi / NFT projects and Marketplaces
 
     ⚡ Multichain Support: Ethereum, Binance Smart Chain, Polygon, Kucoin, Algoland, Solana...
