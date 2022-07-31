@@ -1,5 +1,5 @@
-- Hi👋 , I’m @ethancrypto, Blockchain Guru witb 7 years of proven experiences, Full Stack Developer, Project Manager 🔥. 
-  Rust Programming Language is my main choice for recent years.
+- Hi👋 , I’m @ethancrypto, Blockchain Guru witb 7 years of proven experiences, Full Stack Developer, Project Manager 
+- 🔥 Rust Programming Language is my main choice for recent years.
   I am very familiar with Rust and several frameworks such as ActiX, Yew, Substrate.
 
 These are my other skillset:
