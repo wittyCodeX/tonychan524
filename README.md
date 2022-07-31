@@ -1,9 +1,8 @@
 - Hi👋 , I’m @ethancrypto, Blockchain Guru witb 7 years of proven experiences, Full Stack Developer, Project Manager 🔥. 
-  Win-Win is my main working style and it shows how I work with clients. 
-  I love to help Blockchain Startup companies as a project manager, developer, consultant.
-  
-    ⚡ Develop highly secure / qualified crosschain applications
+  Rust Programming Language is my main choice for recent years.
+  I am very familiar with Rust and several frameworks such as ActiX, Yew, Substrate.
 
+These are my other skillset:
     ⚡ Develop DAO, Defi / NFT projects and Marketplaces
 
     ⚡ Multichain Support: Ethereum, Binance Smart Chain, Polygon, Kucoin, Algoland, Solana...
@@ -16,6 +15,5 @@
 
     ⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean
 
-- 🌱 I’m currently learning Artificial Intelligence using Tensorflow and Pytorch.
 - 💞️ Always Learning is fun.
 
