@@ -1,4 +1,4 @@
-- Hi👋 , , I’m @tonychan, Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Project Manage
+- Hi👋 , I’m @tonychan, Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Project Manage
 
 These are my other skillset: 
     
